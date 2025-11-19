@@ -8,8 +8,8 @@ public class WriteFile
         try {
             FileWriter Writer = new FileWriter("sample3.txt");
             // Writing File
-            Writer.write("Files in Java are seriously good!!!");
-            Writer.write("Hello This is File Handling session");
+            Writer.write("Narendra Jagtap...");
+            Writer.write("Shreya");
             Writer.close();
 
             System.out.println("Successfully written.");
